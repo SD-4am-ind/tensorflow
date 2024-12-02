@@ -1,4 +1,4 @@
-# NOTE: Disabled temporarily because it's too noisy on pushes.
+g# NOTE: Disabled temporarily because it's too noisy on pushes.
 # Where component owners are known, add them here.
 
 # /tensorflow/core/platform/windows/ @mrry
